@@ -4,6 +4,28 @@
 ### What is this Module?
 This module is for helping game masters flesh out their Quest system data in Foundry Virtual Tabletop. If you are looking for all content that is available in the creators license, please check out [Quest VTT Creators](https://github.com/kbedell/quest-vtt-creators).
 
+### What data is included in this module?
+The following data is available:
+- Role Names
+- Learning Path Names
+- Abilitty Names, AP cost
+
+### What is included in the other (Quest VTT Creators) module?
+The following data is available in the sister module:
+- Role Names & basic descriptions
+- Learning Path Names,
+- Ability Names, AP Cost, and basic descriptions
+
+### How do I flesh out what is here?
+The recommended order for fleshing out contet is as follows:
+1. Create your ability effect(s)
+2. Create your effect roll range(s)
+
+Feel free to edit/adjust descriptions for abilities, roles, etc. 
+
+### I can't edit anything!
+Make sure you right-click on the compendium, and "Toggle Lock." It will warn you that an update could overwrite your changes, but this module will only need to be run once to set up the framework.
+
 ## Additional Legal
 This work uses material from the Quest Creators Resource. The Quest Creators Resource by The Adventure Guild, LLC is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
