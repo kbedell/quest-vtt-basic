@@ -1,0 +1,50 @@
+{
+  "name": "quest-basic",
+  "title": "Quest Basic Data",
+  "description": "Quest Creators License stub content",
+  "author": "Easternwind",
+  "version": 0.1,
+  "minimumCoreVersion": "0.5.6",
+  "compatibleCoreVersion": "0.7.2",
+  "packs": [
+    {
+      "name": "abilities",
+      "label": "Abilities",
+      "path": "packs/abilities.db",
+      "entity": "Item",
+      "module": "quest-basic"
+    },
+    {
+      "name": "effects",
+      "label": "Effects",
+      "path": "packs/effects.db",
+      "entity": "Item",
+      "module": "quest-basic"
+    },
+    {
+      "name": "paths",
+      "label": "Paths",
+      "path": "packs/paths.db",
+      "entity": "Item",
+      "module": "quest-basic"
+    },
+    {
+      "name": "ranges",
+      "label": "Ranges",
+      "path": "packs/ranges.db",
+      "entity": "Item",
+      "module": "quest-basic"
+    },
+    {
+      "name": "roles",
+      "label": "Roles",
+      "path": "packs/roles.db",
+      "entity": "Item",
+      "module": "quest-basic"
+    }
+  ],
+  "url": "https://github.com/kbedell/quest-vtt-basic",
+  "manifest": "https://raw.githubusercontent.com/kbedell/quest-vtt-basic/master/module.json",
+  "download": "https://github.com/kbedell/quest-vtt-basic/releases/download/v0.1/quest-basic.zip",
+  "license": "LICENSE"
+}

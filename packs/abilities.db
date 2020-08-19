@@ -1,0 +1,227 @@
+{"name":"Wren's Delightful Dream","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"1AJQptws24G1kuQR"}
+{"name":"Heal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"1j6s2rEkacI5zfAr"}
+{"name":"Marshal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"1xBaDLBEkWftzOiZ"}
+{"name":"Reshape","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"2cDbme8RFzm8cYXq"}
+{"name":"Lifelink","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"3YxOUp0pEMpwkTlz"}
+{"name":"Lawbringer","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"3r0gpo6m1Zg4jgLn"}
+{"name":"Echoes of Creation","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"48xSTioDI1TK5Xyj"}
+{"name":"Last Light","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4FRy62YmP6D0rpT9"}
+{"name":"Impression","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4odrEdWmZX7pTma1"}
+{"name":"Champion","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4uOAFr0zKLRAFdwP"}
+{"name":"Spyglasses","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4wMaH90mkYRiKvAB"}
+{"name":"Message","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"5CUTz6k123dl7tV4"}
+{"name":"Wild Celebrity","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"5nH6AzFGl90j64HL"}
+{"name":"Thorn","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"6G6D9NR1oWklGktv"}
+{"name":"Befizzle","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"7SheQmpjh0vzWLal"}
+{"name":"Wild Attack","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"7iRtp57pOkwpMB1a"}
+{"name":"Deadeye","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"7zMr8E8uCZX8zT8K"}
+{"name":"Bond","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"8ibtjLUT8XirXdYa"}
+{"name":"Seeker","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"98E96CrUfqXMqnpI"}
+{"name":"Phantom Menace","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"9EAcEjcYSqpQRwON"}
+{"name":"Illusory Creature","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"9EQvBYzmECyN19Cu"}
+{"name":"Steelsprout","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"A2BoweX6qa0V7HKp"}
+{"name":"Bamboozle","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"AncQQe5MXBE8pI7d"}
+{"name":"Crypto","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"B1IIXKoeFCAPIEne"}
+{"name":"Delve","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"BEjIQ5hxDugO8MBR"}
+{"name":"Technique","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"BrMtmxxDQK1lszrc"}
+{"name":"Commune with the Dead","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"CB2OE2W6tK3Dlk0e"}
+{"name":"Overpower","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"CQhPZEyrPPksWH1w"}
+{"name":"Gills","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"D83CcNgXqvTT0wxu"}
+{"name":"Insight","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"DNjxhNeGJShPEFmt"}
+{"name":"Wither","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"DVqtbvClASAqM9nM"}
+{"name":"Relieve","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Dpm5EInqXCY0Bgys"}
+{"name":"Retreat","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"DqFlmz3LVVKUcGjc"}
+{"name":"Poison","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"DxYSXkFiOLqCjBoC"}
+{"name":"Ritual","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"EDNltKJpUnZA7uE7"}
+{"name":"Feign Death","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"EEasNpoVySHQRbqL"}
+{"name":"Animal Partner","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Exjl84CYGVXDDiQy"}
+{"name":"Magic Tricks","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"FYIQxryRdsJB3nQr"}
+{"name":"Don't You Know Who I Am?","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Fs2YmpLO8YIcL4jn"}
+{"name":"Freeze","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"GFbUOz1z0SHhKOAO"}
+{"name":"Scintillate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"GJNjjjm1Zf1tHDf2"}
+{"name":"Calcify","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"H5QrbdRywcd9H7E4"}
+{"name":"Track","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"HP41oL2OgsSWhTgw"}
+{"name":"Summon the Blood","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"HqvSSheQpgAFjuG8"}
+{"name":"Compel Truth","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Im75iqpUtORAocih"}
+{"name":"Shield","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"IpBYH01lgtK4lC1G"}
+{"name":"Thunderous Word","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"J6dEBlf7tUyojjIA"}
+{"name":"World Wish","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"JFiFbcYgwXoidvPg"}
+{"name":"Yawp","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"JKwYLrbim1Sa7W5d"}
+{"name":"Inspire","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"JxEIcepmqdHuUZrC"}
+{"name":"Eternal Summer","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"K7Wvhzl9oHPTeH51"}
+{"name":"Rebuke","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"KgYZS9AEKJ3DELVA"}
+{"name":"Bounty","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"KxY1j14XoYW9deY4"}
+{"name":"Focus","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Ky4FRluxbbU5nlsd"}
+{"name":"Bedazzle","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"LD1Ktu59765BYO4j"}
+{"name":"Charge","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"LRNGQZ6gINwYO2dH"}
+{"name":"Nox","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"LoZAavObH2gILtcF"}
+{"name":"Attendant","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"M1pakdUyOrHgSdth"}
+{"name":"Shadow Haven","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"MmVrv7RVRQuGVlFp"}
+{"name":"Liberate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Mn31s0XbwGYQ53j5"}
+{"name":"Corrupt","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"MvbtEJxJD3DdNa46"}
+{"name":"Nature's Wrath","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"N0sPMkbydbkinCaZ"}
+{"name":"Shapeshift","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"N1qyeETC1SPEdi8r"}
+{"name":"Provoke","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NANiScxviyF6iDX7"}
+{"name":"Curious Case","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NUb7TkGpSyJZ36sL"}
+{"name":"Needful Key","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NWIExn2quhSmumci"}
+{"name":"Soul Gaze","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NnxMeRIzlhLePrsq"}
+{"name":"Magic Eye","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NxaDD8k6U4DbMZPe"}
+{"name":"Prey Sense","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"O0ivfNkCC0hD0n3l"}
+{"name":"Examine the Dead","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"OFp6OZIwvGRaAhUY"}
+{"name":"Valiant Soliloquy","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"OQvsW9muPeWLBPAP"}
+{"name":"Magic Strike","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"PElQtg6ffKErbFz4"}
+{"name":"Shock","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Q2DJVJhjCI4dTzDw"}
+{"name":"Nature's Watch","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Q8dz9xoSQqeCjeyY"}
+{"name":"Invasion","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"RDkUVOIk53rD3vRD"}
+{"name":"Duel","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"RMwVkUBeub8ZrgNU"}
+{"name":"Wild Evolution","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ReaRRNoYjo6WnouQ"}
+{"name":"Commune","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"RotKpo3uvW9CJ965"}
+{"name":"Wild Aspect","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"S6gZUddE8aNkpU6x"}
+{"name":"Flow","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Sf894xp5c5YYvNrA"}
+{"name":"Aurora","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"SyD1RAwKwr89vHMA"}
+{"name":"Forgive","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TCKRjBBb1Ly0oJEh"}
+{"name":"Reinstate the Dead","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TlD1lY9YI1PxLHqR"}
+{"name":"Friend of the Land","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"U9dOAi9iZg8sSqXD"}
+{"name":"Shadowseek","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UIAkSt4RMEDGJNs7"}
+{"name":"Evil Eye","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UIXtf2pVmNFDYKWE"}
+{"name":"Blueprint","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UdDvAylgHqV7jotm"}
+{"name":"Mend","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UiQLhbLdBoReg9cv"}
+{"name":"Disarm","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UmTU8hES6nxlN9gb"}
+{"name":"Perfect Gift","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UuhDgiJ09oI7QmB6"}
+{"name":"Silver Tongue","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"UwS1TgtCfCxaSfmN"}
+{"name":"Cosmopolitan","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"VBIAWi8rL8u0wgnc"}
+{"name":"Sleep","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"VqTNeThD3k9ViNvi"}
+{"name":"Size Up","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WAHJQvAhSI6cJ3eS"}
+{"name":"Limit Break","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WE6pTVYRQx5roQq5"}
+{"name":"Signal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WZPqAEGrkyL8FJ4G"}
+{"name":"Whisper","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Wj8xpCvCeKXDBdAI"}
+{"name":"Interpret","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WlvHPlEdmgbI6K8l"}
+{"name":"Sacrifice","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"X8sFeasZhqlOGoqD"}
+{"name":"Kindle","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"XZ4MyRGIcJjES8Xv"}
+{"name":"Cloudcall","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"YOPFKLsiiXl5e93H"}
+{"name":"False Sense","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"YRt38rmBPhe8KyuV"}
+{"name":"Shape Senses","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ZAv5ojLA7SKoL6A5"}
+{"name":"Overthere","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ZHUN9uK7fmQZujHS"}
+{"name":"Sigil","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ZQ1LndPf19i5TzyZ"}
+{"name":"Tracker","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ZfIdZlZyflzIGiqY"}
+{"name":"Declare","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"aPxWK8wq9jRkKZC3"}
+{"name":"Invisibility","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"aUYrMHrONcbjMcz1"}
+{"name":"Shadow Cutter","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"aZb0LZKU3N6TctCk"}
+{"name":"Plan","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ag5l8b7PDaa3y67W"}
+{"name":"Peerless Pilot","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"bTmc7xufVcZlPSKX"}
+{"name":"Dossier","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"c8XGSW9jw1POB7XA"}
+{"name":"Oblation","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"cb1u0I9KeO4D0Mms"}
+{"name":"Helen's Fantastic Feast","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"cyIVtkjhQmUygZgr"}
+{"name":"Monitor","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dDu4Gimoxh5zzN0G"}
+{"name":"Speak with Animal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dTGO8ICd9JV6THvC"}
+{"name":"Telekinesis","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dabHCVVaBk6zuFNa"}
+{"name":"Whisper on the Wind","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dvKzQBnmo8I4412Z"}
+{"name":"Modulate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"eDHl0SSRELw5d1Ld"}
+{"name":"War Story","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"fCw0aS92A9bQXBqP"}
+{"name":"Mirage","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"fLsLOD8TKmDjfwEk"}
+{"name":"Feather Hook","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gGEVYvocqJ71lBxF"}
+{"name":"Genesis Command","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gJYAUYMBuvJM2lqT"}
+{"name":"Speak Myth","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gg6kA2en6qnMeM8l"}
+{"name":"Prophecy","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"hh2KrYWm6sLDt0mZ"}
+{"name":"Clap","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"hwkouFqpT68Pj9PJ"}
+{"name":"Etenerity Gate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"hzd2mUaemdBdY3Xe"}
+{"name":"Stormcall","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"hzgxkGIG4d9fmmKa"}
+{"name":"Intercept","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"i1qaIPVl06K9rRP9"}
+{"name":"Persona","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"i4Rmom3tQMTV2Gjy"}
+{"name":"Fear","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ilxDRhYUEuPgwJJO"}
+{"name":"Wraith","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"io5MJ3qknoMgGlPy"}
+{"name":"Forget","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"izJPJWz1i1JSJFMq"}
+{"name":"To Dust","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"j3kHuo66OTpP0DCM"}
+{"name":"Speak with Trees","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"jHNuyEyYwdPVHLUx"}
+{"name":"Blink Pack","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"jMwx6xHIelwWIw8v"}
+{"name":"Splitting Image","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ja0LxUZnfIKJ7C6k"}
+{"name":"Needful Hint","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"jhmeCSULRpetbsLT"}
+{"name":"Vow","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"k1j6DRJXzZuhnWtL"}
+{"name":"Farshot","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"kO4FHvg57jtXS2M9"}
+{"name":"Nightcrawler","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"kTzaIoDGULL1RDMh"}
+{"name":"Restore","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"kaAfefnF8KnU3X6w"}
+{"name":"Blazing Avenger","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"kk5TaVqXaSS6TVw3"}
+{"name":"Perky Profanation","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"kkR0ZWjEUl7g91iX"}
+{"name":"Riverfury","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lH8gNpizeoCHGFa4"}
+{"name":"Pair Bond","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lNHSOssDV1r1sNb9"}
+{"name":"Sneak Attack","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lsvxgtLIaizPs0Jo"}
+{"name":"Heartkill","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"mGI9iOerXEhktJaS"}
+{"name":"Folk Song","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"mRKrE0GdiERjPuZ1"}
+{"name":"Courier","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"mSus1TpYQGI6v2Wx"}
+{"name":"Evening Star","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"mW7yNU10tmi2MQ95"}
+{"name":"Little Bird","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"mdItdynSOP7UEMIT"}
+{"name":"Shroud","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"nEmTyDELPmdVSsxr"}
+{"name":"The Bitter Gift","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"nItTf1yNMuqDBz2c"}
+{"name":"Mimic","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"nowx3aHXQ5otZzpC"}
+{"name":"Defy Death","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"oGosOhBoabqkZ90A"}
+{"name":"Pegasus Cloak","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"omAbqZba3g2ZG7he"}
+{"name":"Shift Season","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"pKyT7f0RGsb1hKcz"}
+{"name":"Petition","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"poWATRUvOYMuvxFd"}
+{"name":"Stalk","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qFo62qiMrYrW3fDz"}
+{"name":"Animal Form","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qGK7AcI8A34FXPeG"}
+{"name":"Burn","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qGpRGX6RqiAYjGUq"}
+{"name":"Nemesis","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qXVNIkvWbb9aFVAw"}
+{"name":"Afflict","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qxmlu1ebOF6RiPsd"}
+{"name":"The Artifice","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"r6dW8tgmicaOIdYg"}
+{"name":"Fiery Avenger","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"rTIhsLteH21Trm4v"}
+{"name":"Recruit","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"rTzr8uL7ZI26mDyG"}
+{"name":"Command Nature","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"rfofTHqJ8vYsqff8"}
+{"name":"Disguise","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"sVHAfCBdtlUdON68"}
+{"name":"Wild Font","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"sVdT9oqTz1Qh3WPD"}
+{"name":"Read the Winds","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"svIcJ88rKaqeeCTs"}
+{"name":"Counterattack","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"svjJRJSU8VrjR07h"}
+{"name":"Control","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"sxaOPwy52niTF7Jz"}
+{"name":"Death Hand","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"t0Fkk21SFO4yjxvb"}
+{"name":"Listener","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"tM6bv848m2BXuBFj"}
+{"name":"Memories of Stone","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"tYdFLEIrWnVsFDit"}
+{"name":"Banish","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"uFCXQZTOI0SNbxkM"}
+{"name":"Deathsense","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"utTAgqK5oXmPzi2t"}
+{"name":"Steel Pact","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"v2pLpdxpAUR1F9rG"}
+{"name":"Reanimate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vGLrYrdiAiGGPmn8"}
+{"name":"Force Field","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vKDmFr1pAyQxHX3L"}
+{"name":"Mesmerize","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vjQXXXKnsgLEZYGq"}
+{"name":"Familiar","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vkegHNce2Z0CAZgN"}
+{"name":"Cloner","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vnaxvkCiqa0QckAJ"}
+{"name":"Bricolage","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"vp8nCLyztlXiLCay"}
+{"name":"Petrify","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"wBLmCkzReeFTcsMO"}
+{"name":"Fireball","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"wGB3nqEoZ8rUAfvG"}
+{"name":"Shadow","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"wNODzkLPVEQkP12i"}
+{"name":"Chaos Ball","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"wdD4dRQI9bqNEayi"}
+{"name":"Gale","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"xM6HAi121nU6j0UV"}
+{"name":"Whirlwind","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"xMvIgb7ZWzZ3NLPL"}
+{"name":"Vortex","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"xnMgg6BhpUxQ6sDM"}
+{"name":"Smite","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"y2zx2nBx9H0wNrhF"}
+{"name":"Strap","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"yHBPL8LRPC1cFDDI"}
+{"name":"Slayer","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"yNQJq7h7473toq9k"}
+{"name":"Remedy","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"yTnjHlvoOCpIX3wX"}
+{"name":"Diagnose","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ywvwPUCfznU59Nar"}
+{"name":"Loosen","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"zAOF8s0Lybp7easW"}
+{"name":"Invoke","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"zY8K8yzncYqCucQB"}
+{"name":"Navigate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ze3A7ivul4Q7nY2z"}
+{"name":"Conjure","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"m0AGK7zK7h2Zo0cQ"}
+{"name":"Blink","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"F85FgaLn8C7GIM12"}
+{"name":"Gate","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"S9Li1NyBTfREJ12V"}
+{"name":"Portal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"XD1AUQU4ykhsb4Jw"}
+{"name":"Dark Door","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4MgZT6bMIAnI2JWW"}
+{"name":"Teleport","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"e6eeSUh55HR3C06K"}
+{"name":"No","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ZRLUJXFFF7olsAuQ"}
+{"name":"Reflect","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"azNf50XNG7RiddHq"}
+{"name":"Enscroll","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"EHcxsYqW2Hdko9mT"}
+{"name":"Spellsteal","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"hQVwMpT76vLgV2Cp"}
+{"name":"Sense Magic","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"QIIMILEmyJiF77ES"}
+{"name":"Aura's Silvery Broadcast","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4yTxkd7KrhaGff38"}
+{"name":"Scry","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4TRGXuTCFz8rfK9g"}
+{"name":"See","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WpKfJoEL3RDRdP8R"}
+{"name":"Find","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gN4c7v4zqZBTkSiM"}
+{"name":"Speak","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"t5v8mvklpmO0fyKR"}
+{"name":"Pinch","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qKPmMshKNtxYwoDN"}
+{"name":"Stretch","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"pOHTS0u98pTaAnxC"}
+{"name":"Undo","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dGNVQSEhFAYokY1k"}
+{"name":"Rift","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TttR5PgGFm8KEaxZ"}
+{"name":"Transcendence","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"cqCnaMTnza2xsY2U"}
+{"name":"Planecraft","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"xbSOvXf0BTY7dR6O"}
+{"name":"Create","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":true,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gDdjLSy3tlwTH2cP"}
+{"_id":"qGK7AcI8A34FXPeG","name":"Animal Form","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg"}
+{"_id":"qxmlu1ebOF6RiPsd","name":"Afflict","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg"}
+{"_id":"qxmlu1ebOF6RiPsd","name":"Afflict","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg"}
+{"_id":"qGK7AcI8A34FXPeG","name":"Animal Form","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"ability","data":{"legendary":false,"effects":[]},"flags":{},"img":"icons/svg/mystery-man.svg"}

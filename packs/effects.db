@@ -1,0 +1,4 @@
+{"name":"counterattack-effect","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"effect","data":{"value":"","chat":"","spellcost":"0","ranges":[],"description":{"value":"","chat":""}},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"1J4ApadmoiGGlYIQ"}
+{"name":"wild-attack-effect","permission":{"default":0,"N7ETS0M5ZK5bDlfJ":3},"type":"effect","data":{"value":"","chat":"","spellcost":"0","ranges":[],"description":{"value":"","chat":""}},"flags":{},"img":"icons/svg/mystery-man.svg","_id":"9aY1U2BlkljOYEUg"}
+{"$$deleted":true,"_id":"9aY1U2BlkljOYEUg"}
+{"$$deleted":true,"_id":"1J4ApadmoiGGlYIQ"}
