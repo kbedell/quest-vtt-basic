@@ -1,8 +1,8 @@
 # Quest VTT Basic
-**It is highly recommend you use this module in conjunction with the (Quest VTT System)[https://github.com/kbedell/quest-vtt]**
+**It is highly recommend you use this module in conjunction with the [Quest VTT System](https://github.com/kbedell/quest-vtt)**
 
 ### What is this Module?
-This module is for helping game masters flesh out their Quest system data in Foundry Virtual Tabletop. If you are looking for all content that is available in the creators license, please check out (Quest VTT Creators)[https://github.com/kbedell/quest-vtt-creators].
+This module is for helping game masters flesh out their Quest system data in Foundry Virtual Tabletop. If you are looking for all content that is available in the creators license, please check out [Quest VTT Creators](https://github.com/kbedell/quest-vtt-creators).
 
 ## Additional Legal
 This work uses material from the Quest Creators Resource. The Quest Creators Resource by The Adventure Guild, LLC is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
